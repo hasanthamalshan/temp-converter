@@ -1,5 +1,5 @@
 # temp converter
- simple kotlin app that converts temparatires to different units
+ simple kotlin app that converts temparatires between Celsius and Fahrenheit 
 
 ![1](https://github.com/user-attachments/assets/3f2bdf52-0d3d-45d4-bcce-6899ef25eb7b)
 
