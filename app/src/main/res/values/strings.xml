@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">tempConverter</string>
+    <string name="app_name">Temperature Converter</string>
+    <string-array name="conversion_array">
+        <item>Celsius to Fahrenheit</item>
+        <item>Fahrenheit to Celsius</item>
+    </string-array>
 </resources>
